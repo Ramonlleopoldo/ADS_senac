@@ -1,4 +1,4 @@
-package Porgramacao_POO;
+package Porgramacao_POO.exercicio02;
 
 public class exercicio02_1 {
     public static void main(String[] args) {
