@@ -25,7 +25,12 @@ public class exercicio06 {
             }
         }
         media = soma/Lista.size();
-
-        JOptionPane.showMessageDialog(null, "Menor valor: "+ menor + "\n Maior valor: "+ maior + "\n Media dos valores: " + media, "Resultados", JOptionPane.QUESTION_MESSAGE);
+        System.out.println("Maior numero: "+maior+ "\nMenor numero: "+ "\n Media: "+media);
+        //verificando pares
+        for (int i=0; i<10; i++){
+            if (Lista.get(i)%2==0){
+                System.out.println("Número par encontrado: "+Lista.get(i));
+            }
+        }
     }
 }
