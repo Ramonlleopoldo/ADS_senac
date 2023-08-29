@@ -1,6 +1,4 @@
 package Porgramacao_POO.exercicio06;
-import com.sun.jdi.Value;
-
 import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
